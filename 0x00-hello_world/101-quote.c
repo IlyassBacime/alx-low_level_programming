@@ -1,4 +1,5 @@
 #include <unistd.h>
+#include <stdio.h>
 /**
  * main - This program will run a poem using the fput function
  * Return 1 (Success)
