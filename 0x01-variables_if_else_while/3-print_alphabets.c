@@ -8,12 +8,12 @@
 
 int main(void)
 {
-	char alphABET[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 
 for (i = 0; i < 56; i++)
 {
-	putchar(alphABET[i]);
+	putchar(alp[i]);
 }
 putchar('\n');
 return (0);
