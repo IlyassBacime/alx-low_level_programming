@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - prints and that piece of art 
+ * main - prints and that piece of art
  * Return: Always 1
  */
 
