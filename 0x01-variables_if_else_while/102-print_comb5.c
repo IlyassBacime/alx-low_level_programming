@@ -22,7 +22,7 @@ for (i = 0; i < 100; i++)
 			putchar(' ');
 			putchar((o / 10) + 48);
 			putchar((o % 10) + 48);
-			if (i != 98 || o != 98)
+			if (i != 98 || o != 99)
 			{
 				putchar(',');
 				putchar(' ');
