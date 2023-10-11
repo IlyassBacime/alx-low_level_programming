@@ -19,7 +19,7 @@ int main(void)
 	else
 	{
 	m += n;
-	m = n - m;
+	n = m - n;
 	printf(", %ld", m);
 	}
 	++i;
