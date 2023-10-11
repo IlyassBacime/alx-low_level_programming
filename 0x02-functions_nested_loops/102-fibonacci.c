@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the 50 Fibonacci numbers, starting with 1 and 2
+ * main - Prints the 52 Fibonacci numbers, starting with 1 and 2
  * Return: 0 (Success)
  */
 
@@ -18,9 +18,9 @@ int main(void)
 	printf(", %ld", m);
 	else
 	{
-		m += n;
-		m = n - m;
-		printf(", %ld", m);
+	m += n;
+	m = n - m;
+	printf(", %ld", m);
 	}
 	++i;
 	}
