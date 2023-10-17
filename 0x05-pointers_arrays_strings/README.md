@@ -22,6 +22,6 @@ The projects are presented as follows:
 
 9) 9-strcpy.c : Writes a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 
-10) 
+10) 100-atoi.c : Writes a function that convert a string to an integer 
 
-11)
+11) 101-keygen.c : Creates a program that generates random valid passwords for the program 101-crackme
