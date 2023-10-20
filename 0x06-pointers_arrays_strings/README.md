@@ -18,12 +18,12 @@ The different projects are as follows:
 
 7) 7-leet.c : Writes a function that encodes a string into 1337
 
-8) 
+8) 100-rot13.c : Writes a function that encodes a string using rot13
 
-9)
+9) 101-print_number.c : Writes a function that prints an integer
 
-10)
+10) 102-magic.c : Adds one line to this code, so that the program prints a[2] = 98
 
-11)
+11) 103-infinite_add.c : Writes a function that adds two numbers
 
-12)
+12) 104-print_buffer.c : Writes a function that prints a buffer
