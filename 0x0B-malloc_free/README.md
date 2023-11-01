@@ -1,4 +1,4 @@
-Test This is a repo for C - malloc, free, it includes different projects done in the alx software engineering promgramme
+This is a repo for C - malloc, free, it includes different projects done in the alx software engineering promgramme
 
 The different projects are as follows:
 
